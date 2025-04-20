@@ -1,4 +1,3 @@
-# Adversarial-Machine-Learning-via-FGSM-
 
 # Adversarial Examples with FGSM
 
